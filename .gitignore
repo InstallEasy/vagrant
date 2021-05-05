@@ -1,0 +1,5 @@
+.vagrant/
+*.pyc
+Vagrantfile
+*.log
+*.retry
