@@ -9,7 +9,7 @@
 ## One-line download and installation
 
 ```
-bash <(curl -sL https://raw.githubusercontent.com/krlex/vagrant-installation/master/script.sh)
+bash <(curl -sL https://raw.githubusercontent.com/krlex/vagrant-installation/master/install.sh)
 ```
 ## About Vagrant
 
