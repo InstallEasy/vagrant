@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: bash <(curl -sL https://raw.githubusercontent.com/krlex/vagrant-installation/master/install.sh)
+        run: bash <(curl -sL https://raw.githubusercontent.com/InstallEasy/vagrant/main/install.sh)
